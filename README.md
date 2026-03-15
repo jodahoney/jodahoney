@@ -19,7 +19,7 @@ I’m interested in **machine learning** (theory, systems, applications), **quan
 ## What I’m working on (recent)
 - **Computer vision for remote exercise interventions:** exercise recognition + rep counting from home-based training videos (toward a deployable remote exercise trainer).
 - **ML systems for multimodal biomedical/neuroimaging data:** reproducible pipelines, CI validation, and scalable release workflows.
-- **Graph ML systems:** memory-aware training workflows in PyTorch Geometric.
+- **Quantum ML systems:** Building an Equivariant Quantum Neural Network simulator in order to push frontier of QML.
 
 ---
 
